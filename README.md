@@ -81,33 +81,33 @@ Smart Numerix Cricket Scoring System is a comprehensive mobile application desig
 ### Setup Instructions
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/BlusterTamal/Software-Engineering-and-Information-System.git
-   cd Software-Engineering-and-Information-System
-   ```
+   ```bash
+   git clone [https://github.com/BlusterTamal/Software-Engineering-and-Information-System.git](https://github.com/BlusterTamal/Software-Engineering-and-Information-System.git)
+   cd Software-Engineering-and-Information-System
+   ```
 
 2. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
+   ```bash
+   flutter pub get
+   ```
 
 3. **Configure Secrets**
-   - Copy `lib/config/secrets.dart.example` to `lib/config/secrets.dart`
-   - Fill in your actual credentials in `lib/config/secrets.dart`:
-     - Google OAuth Client ID and Secret
-     - Appwrite endpoint and project ID
-     - Redirect URI for OAuth
-   - **NEVER commit `secrets.dart` to version control** (it's already in `.gitignore`)
+   - Copy `lib/config/secrets.dart.example` to `lib/config/secrets.dart`
+   - Fill in your actual credentials in `lib/config/secrets.dart`:
+     - Google OAuth Client ID and Secret
+     - Appwrite endpoint and project ID
+     - Redirect URI for OAuth
+   - **NEVER commit `secrets.dart` to version control** (it's already in `.gitignore`)
 
 4. **Configure Appwrite**
-   - Create an Appwrite project
-   - Update `lib/features/cricket_scoring/api/appwrite_constants.dart` with your credentials
-   - Import the database schema from `appwrite.json`
+   - Create an Appwrite project
+   - Update `lib/features/cricket_scoring/api/appwrite_constants.dart` with your credentials
+   - Import the database schema from `appwrite.json`
 
 5. **Run the application**
-   ```bash
-   flutter run
-   ```
+   ```bash
+   flutter run
+   ```
 
 ---
 
@@ -136,23 +136,8 @@ Smart Numerix Cricket Scoring System is a comprehensive mobile application desig
 
 ## 📁 Project Structure
 
-```
-lib/
-├── main.dart
-├── config/
-│   ├── secrets.dart (git-ignored, contains actual credentials)
-│   ├── secrets.dart.example (template file)
-│   └── README.md (setup instructions)
-├── home_page.dart
-├── features/
-│   └── cricket_scoring/
-│       ├── api/
-│       ├── models/
-│       ├── screens/
-│       ├── services/
-│       └── widgets/
-└── utils/
-```
+lib/ ├── main.dart ├── config/ │   ├── secrets.dart (git-ignored, contains actual credentials) │   ├── secrets.dart.example (template file) │   └── README.md (setup instructions) ├── home_page.dart ├── features/ │   └── cricket_scoring/ │       ├── api/ │       ├── models/ │       ├── screens/ │       ├── services/ │ _     └── widgets/ └── utils/
+
 
 ---
 
