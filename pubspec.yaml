@@ -1,0 +1,73 @@
+name: scorepad_pro
+description: Professional Cricket Match Management & Live Scoring System
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+
+  # UI & Core Packages
+  cupertino_icons: ^1.0.2
+  provider: ^6.1.2
+  intl: ^0.20.2 # Corrected to the latest stable version
+  google_fonts: ^6.2.1 # Use the latest version
+  sensors_plus: ^5.0.1 # For the gyroscope parallax effect
+
+  # Networking & Storage
+  http: ^1.2.1
+  shared_preferences: ^2.2.2
+
+  # Feature-specific Packages
+  home_widget: ^0.5.0
+  fl_chart: ^0.68.0
+  math_expressions: ^2.4.0
+  vector_math: ^2.1.4
+
+  # --- ADDED FOR CRICKET SCORER FEATURE (NOW APPWRITE) ---
+
+  # Appwrite SDK for Flutter - UPDATED VERSION
+  appwrite: ^13.0.0
+
+  # For picking profile and NID images from camera/gallery
+  image_picker: ^1.0.7
+  # -----------------------------------------
+
+  # For local notifications
+  flutter_local_notifications: ^17.2.3
+
+  # Google OAuth2 and authentication
+  google_sign_in: ^6.2.1
+  crypto: ^3.0.3
+  random_string: ^2.3.1
+
+dependency_overrides:
+  flutter_web_auth_2: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+
+# Flutter-specific configurations
+flutter:
+  uses-material-design: true
+  assets:
+    - "assets/noise.png"
+    - "assets/images/stadium_bg.jpg"
+
+# Configuration for the flutter_launcher_icons package
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon.png"
