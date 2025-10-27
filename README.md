@@ -1,4 +1,4 @@
-#                  🏏 "Cricket Scorer" Cricket Scoring System
+ #  🏏 "Cricket Scorer" Cricket Scoring System
 
 <div align="center">
 
@@ -24,14 +24,14 @@
 
 - **Course**: Softwere Engineering and Information Systems Project (0714 02 CSE 3104)
 - **Year**: 3rd Year, 1st Term
-- **University**: Khulna University
+- **Institution**: Khulna University
 
 ### 🎯 Course Teacher
 
 - **Name**: Dr. Kazi Masudul Alam
 - **Designation**: Professor
-- **Discipline**: Computer Science and Engineering Discipline
-- **University**: Khulna University
+- **Discipline**: Computer Science and Engineering
+- **Institution**: Khulna University
 
 ### 🌟 Key Highlights
 
@@ -346,16 +346,19 @@ See the [LICENSE](LICENSE) file for details.
 
 ## 👥 Team
 
-- **MD. Ishrak Dewan** - Project Design, Developer and Idea Making.
-- **Tamal Paul** - Project Lead, Idea Making, Android Studio Expert
+- **MD. Ishrak Dewan** - Project Design, Developer and Idea Making. **(Student ID: 230212)**
+- **Tamal Paul** - Project Lead, Idea Making, Android Studio Expert, App Build. **(Student ID: 230213)**
   - Email: tamalp241@gmail.com
-  - GitHub: [@yourusername](https://github.com/yourusername)
-- **Jagaran Chakma** - Project Design, Error Solving, App Testing, Coding Expertise.
+  - GitHub: [@BlusterTamal](https://github.com/yourusername)
+- **Jagaran Chakma** - Project Design, Error Solving, App Testing, Coding Expertise. **(Student ID: 230239)**
 
 ---
 
 ## 🙏 Acknowledgments
 
+Special thanks to:
+- **Team Members** - for their help and support
+- **Course instructor** - for guidance and support
 - **Flutter Team** - Amazing cross-platform framework
 - **Appwrite** - Excellent backend-as-a-service platform
 - **Google** - Authentication services
@@ -368,7 +371,7 @@ See the [LICENSE](LICENSE) file for details.
 For questions, support, or collaboration opportunities:
 
 - **Email**: tamalp241@gmail.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **GitHub**: [@BlusterTamal](https://github.com/yourusername)
 - **Issues**: [GitHub Issues](https://github.com/yourusername/CricketScorer/issues)
 
 ---
