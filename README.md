@@ -1,4 +1,4 @@
-# 🏏 "Cricket Scorer" Cricket Scoring System
+#                  🏏 "Cricket Scorer" Cricket Scoring System
 
 <div align="center">
 
