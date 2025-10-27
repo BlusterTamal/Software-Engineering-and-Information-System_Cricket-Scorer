@@ -18,7 +18,7 @@
 
 ## 📋 About
 
-Cricket Scorer Cricket Scoring System is a comprehensive mobile application designed for professional cricket match management. Built with Flutter and Appwrite, it provides real-time scoring, tournament management, player statistics, and automated tournament standings with Net Run Rate (NRR) calculations.
+"Cricket Scorer" is a comprehensive mobile application designed for professional cricket match management. Built with Flutter and Appwrite, it provides real-time scoring, tournament management, player statistics, and automated tournament standings with Net Run Rate (NRR) calculations.
 
 ### 🎯 Course Details
 
