@@ -10,7 +10,7 @@
 
 **Professional Cricket Match Management & Live Scoring System**
 
-[Features](#-features) • [Installation](#-installation) • [Screenshots](#-screenshots) • [Tech Stack](#️-tech-stack) • [Contributing](#-contributing)
+[Features](#-features) • [Installation](#-installation) • [Tech Stack](#️-tech-stack) • [Contributing](#-contributing)
 
 </div>
 
