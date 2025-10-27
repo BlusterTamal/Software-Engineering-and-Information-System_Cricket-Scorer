@@ -104,24 +104,6 @@
 - Content moderation
 - User ban/unban functionality
 
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-### Live Scoring Interface
-<img src="assets/screenshots/live_scoring.png" width="300" alt="Live Scoring">
-
-### Tournament Management
-<img src="assets/screenshots/tournament.png" width="300" alt="Tournament">
-
-### Player Statistics
-<img src="assets/screenshots/player_stats.png" width="300" alt="Player Statistics">
-
-</div>
-
----
 
 ## 🚀 Installation
 
