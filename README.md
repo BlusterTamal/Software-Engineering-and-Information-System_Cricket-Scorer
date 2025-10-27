@@ -6,7 +6,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)
 ![License](https://img.shields.io/badge/license-MIT-orange.svg)
 ![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-lightgrey.svg)
-![University Project](https://img.shields.io/badge/project-CSE%203104-blue)
+![University Project](https://img.shields.io/badge/project-0714%2002%20CSE%203104-blue)
 
 **Professional Cricket Match Management & Live Scoring System**
 
@@ -357,8 +357,8 @@ See the [LICENSE](LICENSE) file for details.
 ## 🙏 Acknowledgments
 
 Special thanks to:
-- **Team Members** - for their help and support
 - **Course instructor** - for guidance and support
+- **Team Members** - for their help and support
 - **Flutter Team** - Amazing cross-platform framework
 - **Appwrite** - Excellent backend-as-a-service platform
 - **Google** - Authentication services
@@ -399,3 +399,7 @@ For questions, support, or collaboration opportunities:
 
 
 </div>
+
+---
+
+*Last Updated: October 2025*
