@@ -33,6 +33,16 @@
 - **Discipline**: Computer Science and Engineering
 - **Institution**: Khulna University
 
+## 👥 Team Members
+
+- **MD. Ishrak Dewan** - Project Design, Developer and Idea Making. **(Student ID: 230212)**
+- **Tamal Paul** - Project Lead, Idea Making, Android Studio Expert, App Build. **(Student ID: 230213)**
+  - Email: tamalp241@gmail.com
+  - GitHub: [@BlusterTamal](https://github.com/yourusername)
+- **Jagaran Chakma** - Project Design, Error Solving, App Testing, Coding Expertise. **(Student ID: 230239)**
+
+---
+
 ### 🌟 Key Highlights
 
 - ✅ **Real-time Live Scoring** with ball-by-ball statistics
@@ -344,15 +354,6 @@ See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👥 Team
-
-- **MD. Ishrak Dewan** - Project Design, Developer and Idea Making. **(Student ID: 230212)**
-- **Tamal Paul** - Project Lead, Idea Making, Android Studio Expert, App Build. **(Student ID: 230213)**
-  - Email: tamalp241@gmail.com
-  - GitHub: [@BlusterTamal](https://github.com/yourusername)
-- **Jagaran Chakma** - Project Design, Error Solving, App Testing, Coding Expertise. **(Student ID: 230239)**
-
----
 
 ## 🙏 Acknowledgments
 
